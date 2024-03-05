@@ -11,4 +11,4 @@ Halo! Nama saya Lamin H. Datau. Saya seorang software engineer dengan pengalaman
 - **<img src="https://img.icons8.com/color/48/000000/mysql.png"/> MySQL:** Saya memiliki pengetahuan dalam pengelolaan basis data relasional (MySQL).
 
 ## Cara Menghubungi Saya
-Jika Anda tertarik bekerja sama atau memiliki pertanyaan, jangan ragu untuk menghubungi saya melalui email di [laminhdataulamin2@gmail.com](mailto:laminhdataulamin2@gmail.com).
+Jika Anda tertarik bekerja sama atau memiliki pertanyaan, jangan ragu untuk menghubungi saya melalui email di <img src="https://img.icons8.com/fluent/48/000000/email.png"/> [laminhdataulamin2@gmail.com](mailto:laminhdataulamin2@gmail.com).
