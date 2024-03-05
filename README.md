@@ -13,4 +13,5 @@ Halo! Nama saya Lamin H. Datau. Saya seorang software engineer dengan pengalaman
 ## Cara Menghubungi Saya
 Jika Anda tertarik bekerja sama atau memiliki pertanyaan, jangan ragu untuk menghubungi saya melalui email di <img src="https://img.icons8.com/fluent/24/000000/email.png"/> [laminhdataulamin2@gmail.com](mailto:laminhdataulamin2@gmail.com).
 
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/user/repo/build)
+![Snake animation](https://github.com/user/repo/blob/output/github-contribution-grid-snake.gif)
+
