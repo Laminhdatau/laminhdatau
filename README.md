@@ -1,5 +1,3 @@
-https://github.com/laminhdatau/generate-animation/tree/master/.github/workflows/main.yml
-
 # <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> Selamat Datang di Profil Saya!
 
 ## Tentang Saya
