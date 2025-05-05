@@ -25,14 +25,6 @@ I'm a passionate **Junior Developer** who enjoys learning new technologies, solv
 
 ---
 
-## 🧰 My Projects
-Here are a few things I’ve built or contributed to:
-- 🎯 [**Project 1**](#): Description of what it does
-- 📊 [**Project 2**](#): What tech is used and what it solves
-- 🌐 [**Website/Portfolio**](https://laminhdatau.my.id): 
-
----
-
 ## 🤝 Let's Connect!
 - 🌐 [LinkedIn](https://linkedin.com/in/lamin-h-datau) 
 - 📱 [WhatsApp](https://wa.me/6282271305463') 
