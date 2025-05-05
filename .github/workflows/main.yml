@@ -10,8 +10,10 @@ on:
       # every 6 hours
     - cron: "0 */6 * * *"
 
-# This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 # The sequence of runs in this workflow:
 jobs:
@@ -42,7 +44,7 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.SNAKE_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
           force: true
 
@@ -52,4 +54,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          SNAKE_TOKEN: ${{ secrets.SNAKE_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
