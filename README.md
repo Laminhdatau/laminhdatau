@@ -8,7 +8,7 @@
 
 I'm a passionate **Junior Developer** who enjoys learning new technologies, solving problems, and building useful things with code. Whether it's front-end, back-end, or just tinkering with tools—I'm always curious and always improving.
 
-![snake gif](https://github.com/laminhdatau/laminhdatau/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/laminhdatau/laminhdatau/blob/output/github-snake-dark.svg)
 
 ### 🔧 Tech Stack I'm Learning
 - 💡 **Languages:** JavaScript, Php
