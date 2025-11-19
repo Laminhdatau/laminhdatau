@@ -14,6 +14,7 @@ I'm a passionate **Junior Developer** who enjoys learning new technologies, solv
 - 💡 **Languages:** JavaScript, Php
 - 🖼️ **Front-End:** NextJS, Laravel, Codeigniter
 - 🛠️ **Back-End:** Node.js, Express, HonoJs
+- 🛠️ **Fullstack:** Nextjs, Laravel, Codeigniter
 - 🗃️ **Database:** PostgreSQl, MySQL, mariaDB, supabase
 - ⚙️ **Tools:** Git, VS Code, Postman
 
