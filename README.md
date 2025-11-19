@@ -12,7 +12,7 @@ I'm a passionate **Junior Developer** who enjoys learning new technologies, solv
 
 ### 🔧 Tech Stack I'm Learning
 - 💡 **Languages:** JavaScript, Php
-- 🖼️ **Front-End:** HTML, CSS, NextJS, Tailwind CSS
+- 🖼️ **Front-End:** NextJS, Laravel, Codeigniter
 - 🛠️ **Back-End:** Node.js, Express, HonoJs
 - 🗃️ **Database:** PostgreSQl, MySQL, mariaDB, supabase
 - ⚙️ **Tools:** Git, VS Code, Postman
