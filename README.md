@@ -37,20 +37,19 @@
 
 ---
 
-### 📈 GitHub Activity & Stats
+### 📈 GitHub Contribution Activity
 
 <div align="center">
 
 ![Snake animation](https://github.com/laminhdatau/laminhdatau/blob/output/github-snake-dark.svg)
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=laminhdatau&show_icons=true&theme=radical&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&bg_color=0f172a" alt="Lamin's GitHub Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laminhdatau&layout=compact&theme=radical&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0f172a" alt="Top Languages" height="150" />
-
 <br/><br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=laminhdatau&color=2563eb&style=flat-square&label=PROFILE+VIEWS)](https://github.com/laminhdatau)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Laminhdatau&theme=radical&hide_border=true&border_radius=12)](https://github.com/Laminhdatau)
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Laminhdatau&color=2563eb&style=flat-square&label=PROFILE+VIEWS)](https://github.com/Laminhdatau)
 
 </div>
 
